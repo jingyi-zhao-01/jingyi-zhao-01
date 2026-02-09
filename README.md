@@ -14,7 +14,7 @@
 ### Actively Monitoring  
 
 *Favorite*
-- **[OpenHands](https://github.com/jingyi-zhao-01/OpenHands)** — Open-source coding assistant
+- **[OpenHands](https://github.com/jingyi-zhao-01/OpenHands)** — Coding Agent from the Author of [CodeAgent](https://arxiv.org/abs/2401.07339)
 - **[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)**
 - **[ObsidianACP](https://github.com/jingyi-zhao-01/obsidian-agent-client)** — Obsidian agent client
 - **[OpenBB](https://github.com/jingyi-zhao-01/OpenBBTerminal)** — Investment research platform
