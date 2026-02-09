@@ -5,6 +5,7 @@ HI
 - [obsidian-cli-query](https://github.com/jingyi-zhao-01/obsidian-cli)
 - [sys-design](https://github.com/jingyi-zhao-01/sys-design)
 
-### Actively Monitorning:
-- forked-[Openhands](https://github.com/jingyi-zhao-01/OpenHands)
-- forked-[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)
+### Actively Monitorning [Forked]:
+- [Openhands](https://github.com/jingyi-zhao-01/OpenHands)
+- [OpenClaw](https://github.com/jingyi-zhao-01/openclaw)
+- [ObsidianACP](https://github.com/jingyi-zhao-01/obsidian-agent-client)
