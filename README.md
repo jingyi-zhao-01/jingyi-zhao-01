@@ -1,18 +1,18 @@
 <div align="center">
 
-# 👋 Hello, I'm Jingyi Zhao
+# Hello, I'm Jingyi Zhao
 
 </div>
 
 ---
 
-### 🚀 Actively Working On
+### Actively Working On
 
 - **[obsidian-cli-query](https://github.com/jingyi-zhao-01/obsidian-cli)** — CLI tool for Obsidian queries
 - **[sys-design](https://github.com/jingyi-zhao-01/sys-design)** — System design resources
 - **[strategy-tester](https://github.com/jingyi-zhao-01/strategy-tester)** — Strategy testing framework
 
-### 👀 Actively Monitoring
+### Actively Monitoring
 
 *Forked repositories I'm contributing to:*
 
@@ -24,5 +24,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using minimal design principles</sub>
+  <sub>Built with minimal design principles</sub>
 </div>
