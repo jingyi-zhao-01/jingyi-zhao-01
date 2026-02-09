@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hello, I'm Jingyi Zhao
 
 </div>
 
@@ -12,9 +11,9 @@
 - **[sys-design](https://github.com/jingyi-zhao-01/sys-design)** — System design resources
 - **[strategy-tester](https://github.com/jingyi-zhao-01/strategy-tester)** — Strategy testing framework
 
-### Actively Monitoring
+### Actively Monitoring 
 
-*Forked repositories I'm contributing to:*
+*Forked*
 
 - **[OpenHands](https://github.com/jingyi-zhao-01/OpenHands)** — Open-source coding assistant
 - **[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)** — Game engine reimplementation
@@ -23,6 +22,3 @@
 
 ---
 
-<div align="center">
-  <sub>Built with minimal design principles</sub>
-</div>
