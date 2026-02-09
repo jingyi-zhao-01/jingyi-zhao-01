@@ -16,7 +16,7 @@
 *Forked*
 
 - **[OpenHands](https://github.com/jingyi-zhao-01/OpenHands)** — Open-source coding assistant
-- **[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)** — Game engine reimplementation
+- **[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)**
 - **[ObsidianACP](https://github.com/jingyi-zhao-01/obsidian-agent-client)** — Obsidian agent client
 - **[OpenBB](https://github.com/jingyi-zhao-01/OpenBBTerminal)** — Investment research platform
 
