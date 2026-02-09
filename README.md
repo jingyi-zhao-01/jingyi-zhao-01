@@ -11,15 +11,21 @@
 - **[sys-design](https://github.com/jingyi-zhao-01/sys-design)** — System design resources
 - **[strategy-tester](https://github.com/jingyi-zhao-01/strategy-tester)** — Strategy testing framework
 
-### Actively Monitoring 
+### Actively Monitoring  
 
-*Forked*
-
+*Favorite*
 - **[OpenHands](https://github.com/jingyi-zhao-01/OpenHands)** — Open-source coding assistant
 - **[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)**
 - **[ObsidianACP](https://github.com/jingyi-zhao-01/obsidian-agent-client)** — Obsidian agent client
 - **[OpenBB](https://github.com/jingyi-zhao-01/OpenBBTerminal)** — Investment research platform
-- **[BMOD-Assit](https://github.com/bmad-code-org/BMAD-METHOD)** — Vibe stuffs 
+- **[BMOD-Assit](https://github.com/bmad-code-org/BMAD-METHOD)** — Vibe stuffs
+
+*Infra*
+- **[OpenRouter]()**
+- **[vLLM]()**
+- **[ClickHouse]()**
+
+
 
 ---
 
