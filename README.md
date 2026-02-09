@@ -19,6 +19,7 @@
 - **[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)**
 - **[ObsidianACP](https://github.com/jingyi-zhao-01/obsidian-agent-client)** — Obsidian agent client
 - **[OpenBB](https://github.com/jingyi-zhao-01/OpenBBTerminal)** — Investment research platform
+- **[BMOD-Assit](https://github.com/bmad-code-org/BMAD-METHOD)** — Vibe stuffs 
 
 ---
 
