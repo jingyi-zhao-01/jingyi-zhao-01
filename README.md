@@ -25,7 +25,7 @@
 - **[vLLM]()**
 - **[ClickHouse]()**
 
-*I dont use Windows/Mac But still get all the good stuffs*
+*I will **NEVER** use Windows/Mac But still get all the good stuffs*
 - **[LinuxWallPaperEngine](https://github.com/Almamu/linux-wallpaperengine)**
 
 ---
