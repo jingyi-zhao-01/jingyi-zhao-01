@@ -24,6 +24,7 @@
 - **[OpenRouter]()**
 - **[vLLM]()**
 - **[ClickHouse]()**
+- **[Apache Flink](https://github.com/jingyi-zhao-01/flink)**
 
 *I will **NEVER** use Windows/Mac But still get all the good stuffs*
 - **[LinuxWallPaperEngine](https://github.com/Almamu/linux-wallpaperengine)**
