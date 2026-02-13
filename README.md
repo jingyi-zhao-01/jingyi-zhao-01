@@ -15,7 +15,7 @@
 
 *Favorite*
 - **[OpenHands](https://github.com/jingyi-zhao-01/OpenHands)** — Coding Agent from the Author of [CodeAct](https://github.com/xingyaoww/code-act)
-- **[LLamaIndex]**(https://github.com/run-llama/llama_index) -- Pinoeer of federated Q/A on structued/unstructured data
+- **[LLamaIndex](https://github.com/run-llama/llama_index)** -- Pinoeer of federated Q/A on structued/unstructured data
 - **[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)**
 - **[ObsidianACP](https://github.com/jingyi-zhao-01/obsidian-agent-client)** — Obsidian agent client
 - **[OpenBB](https://github.com/jingyi-zhao-01/OpenBBTerminal)** — Investment research platform
