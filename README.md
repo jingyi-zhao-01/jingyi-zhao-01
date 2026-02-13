@@ -17,7 +17,7 @@
 - **[OpenHands](https://github.com/jingyi-zhao-01/OpenHands)** — Coding Agent from the Author of [CodeAct](https://github.com/xingyaoww/code-act)
 - **[LLamaIndex](https://github.com/run-llama/llama_index)** -- Pinoeer of federated Q/A on structued/unstructured data
 - **[OpenClaw](https://github.com/jingyi-zhao-01/openclaw)**
-- **[ObsidianACP](https://github.com/jingyi-zhao-01/obsidian-agent-client)** — Obsidian agent client
+- **[ObsidianACP](https://github.com/jingyi-zhao-01/obsidian-agent-client)** — ACP solution for obsidian text editor
 - **[OpenBB](https://github.com/jingyi-zhao-01/OpenBBTerminal)** — Investment research platform
 - **[BMOD-Assit](https://github.com/bmad-code-org/BMAD-METHOD)** — Vibe stuffs
 
