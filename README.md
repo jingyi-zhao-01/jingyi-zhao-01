@@ -7,7 +7,8 @@
 
 ### Actively Working On
 
-- **[obsidian-cli-query](https://github.com/jingyi-zhao-01/obsidian-cli)** (https://crates.io/crates/obsidian-cli-inspector) ![Crates.io](https://img.shields.io/crates/v/obsidian-cli-inspector.svg)
+- **[obsidian-cli-query](https://github.com/jingyi-zhao-01/obsidian-cli)** [![Crates.io](https://img.shields.io/crates/v/obsidian-cli-inspector.svg)](https://crates.io/crates/obsidian-cli-inspector)
+
  — CLI tool for Obsidian queries
 - **[sys-design](https://github.com/jingyi-zhao-01/sys-design)** — System design resources
 - **[strategy-tester](https://github.com/jingyi-zhao-01/strategy-tester)** — Strategy testing framework
