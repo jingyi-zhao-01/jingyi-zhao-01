@@ -26,9 +26,11 @@
 - **[OpenBB](https://github.com/jingyi-zhao-01/OpenBBTerminal)** — Investment research platform
 - **[BMOD-Assist](https://github.com/bmad-code-org/BMAD-METHOD)** — Vibe stuffs
 
-**Infra**
+**Infra & ToolChains**
 - **[OpenRouter](https://openrouter.ai/)**
 - **[vLLM](https://github.com/vllm-project/vllm)**
+- **[uv](https://github.com/jingyi-zhao-01/uv)**
+- **[Clickhouse](https://github.com/ClickHouse/ClickHouse)**
 
 **Linux Native Solutions**
 - **[LinuxWallPaperEngine](https://github.com/Almamu/linux-wallpaperengine)** — Wallpaper Engine–style dynamic wallpapers on Linux
