@@ -1,6 +1,6 @@
 <div align="center"></div>
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyi-zhao-01&layout=compact&hide=html,css&langs_count=6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyi-zhao-01)](https://github.com/jingyi-zhao-01/github-readme-stats)
 
 ## Now
 
