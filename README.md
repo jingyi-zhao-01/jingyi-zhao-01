@@ -9,6 +9,10 @@
   <a href="https://crates.io/crates/obsidian-cli-inspector">
     <img alt="Crates.io" src="https://img.shields.io/crates/v/obsidian-cli-inspector.svg">
   </a>
+  <a href="https://aur.archlinux.org/packages/obsidian-cli-inspector">
+    <img alt="AUR" src="https://img.shields.io/aur/version/obsidian-cli-inspector?logo=arch-linux">
+  </a>
+
 - **[leetcode nvim](https://github.com/jingyi-zhao-01/leetcode.nvim)** - a forked version of leetcode.nvim adding external integration capabilities
 
 - **[sys-design](https://github.com/jingyi-zhao-01/sys-design)** — System design resources  
