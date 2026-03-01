@@ -1,5 +1,6 @@
 <div align="center"></div>
 ---
+
 ## Now
 
 ### Actively Working On
@@ -33,8 +34,6 @@
 
 **Linux Native Solutions**
 - **[LinuxWallPaperEngine](https://github.com/Almamu/linux-wallpaperengine)** — Wallpaper Engine–style dynamic wallpapers on Linux
-
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyi-zhao-01)](https://github.com/jingyi-zhao-01/github-readme-stats)
 
 
 
