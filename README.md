@@ -1,7 +1,7 @@
 <div align="center"></div>
 ---
 ## Now
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyi-zhao-01)](https://github.com/jingyi-zhao-01/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyi-zhao-01)](https://github.com/jingyi-zhao-01/github-readme-stats)
 
 ### Actively Working On
 
