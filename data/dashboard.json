@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "username": "jingyi-zhao-01",
+    "generated_at": "2026-05-25T21:32:23Z",
+    "window_start": "2025-06-01T00:00:00Z",
+    "window_end": "2026-05-25T21:32:23Z",
+    "included_public_repositories": 0,
+    "warning": "Data collection failed: GitHub API error 403 for https://api.github.com/users/jingyi-zhao-01/repos?type=owner&sort=updated&direction=desc&per_page=100&page=1: Blocked by DNS monitoring proxy",
+    "filters": {
+      "repository_owner": "jingyi-zhao-01",
+      "exclude_forks": true,
+      "exclude_archived": true,
+      "exclude_disabled": true,
+      "commit_author": "jingyi-zhao-01"
+    }
+  },
+  "loc": {
+    "months": [
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05"
+    ],
+    "additions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "deletions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "net": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totals": {
+      "additions": 0,
+      "deletions": 0,
+      "net": 0
+    }
+  },
+  "languages": {
+    "bytes": {},
+    "total_bytes": 0
+  }
+}
