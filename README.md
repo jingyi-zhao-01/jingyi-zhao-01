@@ -41,18 +41,3 @@
 
 
 
-
----
-
-## Coding Activity Dashboard
-
-### Last 12 Months: Lines of Code Changed
-![LOC Trend](./assets/loc-trend.svg)
-
-### Language Breakdown Across Public Repositories
-![Language Breakdown](./assets/language-breakdown.svg)
-
-> Auto-generated from public repositories owned by `jingyi-zhao-01`.
-> Repository filters: owned only; forked, archived, and disabled repositories are excluded.
-> LOC metrics aggregate commit additions/deletions authored by `jingyi-zhao-01` over the last 12 months.
-> Language percentages aggregate GitHub repository language bytes, so they represent repository content mix rather than commit volume.
