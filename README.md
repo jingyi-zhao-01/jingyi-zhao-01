@@ -2,9 +2,8 @@
 ---
 
 ## Now
-active opensource project user
-Building an open-source desktop intelligence layer for agentic workflows.
-Public soon.
+- active opensource project user
+- Building a desktop intelligence layer for agentic workflows. Public soon...
 ### Actively Working On
 
 - **[obsidian-cli-query](https://github.com/jingyi-zhao-01/obsidian-cli)** — CLI tool for Obsidian queries  
