@@ -3,7 +3,7 @@
 
 ## Now
 - active opensource project user
-- Building below the app layer to reduce desktop attention tax. Public soon...
+- Building agentic/controller based intelligence layer below the app layer to reduce desktop attention tax. Public soon...
 ### Actively Working On
 
 - **[obsidian-cli-query](https://github.com/jingyi-zhao-01/obsidian-cli)** — CLI tool for Obsidian queries  
