@@ -5,7 +5,7 @@
 - active opensource project user
 - Building agentic/controller based intelligence layer below the app layer to reduce desktop attention tax. Public soon...
 ### Actively Working On
-- **[homelab-cloud]**(https://github.com/jingyi-zhao-01/homelab-cloud): Privacy First, Personal Native Cloud platform specialized for fast prototyping, auto onboarding service
+- **[homelab-cloud](https://github.com/jingyi-zhao-01/homelab-cloud)**: Privacy First, Personal Native Cloud platform specialized for fast prototyping, auto onboarding service
 
 - **[obsidian-cli-query](https://github.com/jingyi-zhao-01/obsidian-cli)** — CLI tool for Obsidian queries  
   <a href="https://crates.io/crates/obsidian-cli-inspector">
